@@ -26,6 +26,9 @@ figure{
 header{
     text-align: center;
 }
+.songs header{
+
+}
 main{
     position: absolute;
     margin-top: 70px;
