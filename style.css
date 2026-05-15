@@ -10,13 +10,9 @@ body{
 .album img{
     width: 300px;
     height: 300px;
-    float: left;
 }
 .album ul{
     diplay: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
 }
 .album li{
 
