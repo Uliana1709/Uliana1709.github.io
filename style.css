@@ -7,7 +7,7 @@ img{
     padding-left: 20px;
     float: left;
 }
-.album img{
+img .album{
     width: 300px;
     height: 300px;
 }
