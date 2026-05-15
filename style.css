@@ -48,7 +48,7 @@ main{
 nav{
     font-size: 18px;
 }
-.main ul a {
+ul a {
     display: block;
     text-align: center;
     text-decoration: none;
@@ -57,7 +57,7 @@ nav{
                 background-color: #f4f4f4;
                 border: 1px dashed #333;
 }
-.main nav li {
+nav li {
                 float: left;
             }
 .main ul{
