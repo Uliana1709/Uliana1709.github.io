@@ -36,7 +36,7 @@ header{
     margin-left: 25px;
 }
 .members{
-    position: relative;
+    position: fixed;
 }
 main{
     position: absolute;
