@@ -16,6 +16,10 @@ img{
     position: relative;
     overflow: hidden;
 }
+.album li{
+    position: absolute;
+    text-align: center;
+}
 header{
     text-align: center;
 }
