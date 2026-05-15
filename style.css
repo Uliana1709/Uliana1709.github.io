@@ -29,8 +29,11 @@ header{
 .songs header{
 
 }
-.members h1{
-    padding-left: 20px;
+.members h1, p{
+    margin-left: 40px;
+}
+.members h2{
+    margin-left: 25px;
 }
 main{
     position: absolute;
