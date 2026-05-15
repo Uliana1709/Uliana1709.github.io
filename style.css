@@ -27,16 +27,16 @@ main{
     position: absolute;
     margin-top: 70px;
 }
-p{
+.main p{
     padding-left: 20px;
     padding-right: 30px;
     display: flex;
     font-size: 22px;
 }
-nav{
+.main nav{
     font-size: 18px;
 }
-ul a {
+.main ul a {
     display: block;
     text-align: center;
     text-decoration: none;
@@ -45,9 +45,9 @@ ul a {
                 background-color: #f4f4f4;
                 border: 1px dashed #333;
 }
-nav li {
+.main nav li {
                 float: left;
             }
-ul{
+.main ul{
     list-style-type: none;
 }
