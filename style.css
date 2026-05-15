@@ -35,12 +35,8 @@ header{
 .members h2{
     margin-left: 25px;
 }
-.members{;
-    margin-top: 70px;
-}
 main{
     position: absolute;
-    margin-top: 70px;
 }
 .main p{
     padding-left: 20px;
