@@ -35,8 +35,8 @@ header{
 .members h2{
     margin-left: 25px;
 }
-.members{
-    position: fixed;
+.members{;
+    margin-top: 70px;
 }
 main{
     position: absolute;
@@ -50,6 +50,7 @@ main{
 }
 nav{
     font-size: 18px;
+    position: absolute;
 }
 ul a {
     display: block;
