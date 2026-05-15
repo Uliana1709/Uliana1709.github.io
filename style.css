@@ -20,6 +20,9 @@ body{
 figure{
     float: left;
 }
+.songs li{
+    font-size: 18px;
+}
 header{
     text-align: center;
 }
