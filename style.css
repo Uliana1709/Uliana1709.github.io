@@ -8,14 +8,17 @@ body{
     float: left;
 }
 .album img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
 }
 .album ul{
     diplay: block;
 }
 .album li{
 
+}
+figure{
+    float: left;
 }
 header{
     text-align: center;
