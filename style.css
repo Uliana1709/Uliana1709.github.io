@@ -12,7 +12,7 @@ body{
     height: 300px;
 }
 .album ul{
-    diplay: flex;
+    diplay: block;
 }
 .album li{
 
