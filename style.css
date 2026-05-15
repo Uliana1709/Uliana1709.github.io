@@ -45,7 +45,7 @@ main{
     display: flex;
     font-size: 22px;
 }
-.main nav{
+nav{
     font-size: 18px;
 }
 .main ul a {
