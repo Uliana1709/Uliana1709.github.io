@@ -13,6 +13,9 @@ img{
 }
 .album{
     diplay: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 .album li{
 
