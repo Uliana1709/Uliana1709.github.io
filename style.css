@@ -35,6 +35,9 @@ header{
 .members h2{
     margin-left: 25px;
 }
+.members{
+    position: relative;
+}
 main{
     position: absolute;
     margin-top: 70px;
