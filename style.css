@@ -1,0 +1,40 @@
+body{
+    background-color: #87CEFA;
+}
+img{
+    width: 750px;
+    height: 556px;
+    padding-left: 20px;
+    float: left;
+}
+header{
+    text-align: center;
+}
+main{
+    position: absolute;
+    margin-top: 70px;
+}
+p{
+    padding-left: 20px;
+    padding-right: 30px;
+    display: flex;
+    font-size: 22px;
+}
+nav{
+    font-size: 18px;
+}
+ul a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 5em;  padding:10px;
+                margin: 0 5px;
+                background-color: #f4f4f4;
+                border: 1px dashed #333;
+}
+nav li {
+                float: left;
+            }
+ul{
+    list-style-type: none;
+}
