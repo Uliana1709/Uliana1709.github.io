@@ -50,7 +50,7 @@ main{
 }
 nav{
     font-size: 18px;
-    position: absolute;
+    display: flex;
 }
 ul a {
     display: block;
