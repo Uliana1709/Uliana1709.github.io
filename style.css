@@ -10,6 +10,11 @@ img{
 .album img{
     width: 300px;
     height: 300px;
+    display: block;
+}
+.album{
+    position: relative;
+    overflow: hidden;
 }
 header{
     text-align: center;
